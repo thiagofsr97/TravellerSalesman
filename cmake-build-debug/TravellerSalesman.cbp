@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TravellerSalesman"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TravellerSalesman">
+				<Option output="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/TravellerSalesman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/thiagofsr/CLionProjects/TravellerSalesman/FileReader"/>
+					<Add directory="/home/thiagofsr/CLionProjects/TravellerSalesman/Graph"/>
+					<Add directory="/home/thiagofsr/CLionProjects/TravellerSalesman/Node"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 TravellerSalesman"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TravellerSalesman/fast">
+				<Option output="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/TravellerSalesman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/thiagofsr/CLionProjects/TravellerSalesman/FileReader"/>
+					<Add directory="/home/thiagofsr/CLionProjects/TravellerSalesman/Graph"/>
+					<Add directory="/home/thiagofsr/CLionProjects/TravellerSalesman/Node"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 TravellerSalesman/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thiagofsr/CLionProjects/TravellerSalesman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/FileReader/FileReader.cpp">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/FileReader/FileReader.h">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/Graph/Graph.cpp">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/Graph/Graph.h">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/Lexicographical Generator/lexicographical_combination_generator.cpp">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/Lexicographical Generator/lexicographical_combination_generator.h">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/Node/Node.cpp">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/Node/Node.h">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/main.cpp">
+			<Option target="TravellerSalesman"/>
+		</Unit>
+		<Unit filename="/home/thiagofsr/CLionProjects/TravellerSalesman/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
